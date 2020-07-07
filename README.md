@@ -1,6 +1,19 @@
 Jetset uses a React frontend rails backend.
 
 
+heirarchy 
+
+App-
+    NavBar-      Home- / Form-      /Search-    /Profile-   /   About-
+                                       
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
